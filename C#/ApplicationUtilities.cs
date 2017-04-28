@@ -1,0 +1,35 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace CIS247A_Employee
+{
+    public class ApplicationUtilities
+    {
+        public static void DisplayApplicationInformation()
+        {
+            Console.WriteLine("Welcome the Basic Employee Program");
+            Console.WriteLine("Test Environment");
+            Console.WriteLine("Name: Tevis Boulware");
+            Console.WriteLine("This program accepts user input as a string, then makes the \nappropriate data conversion and assigns the value to Employee objects");
+            Console.WriteLine();
+        }
+        public static void DisplayDivider(string outputTitle)
+        {
+            Console.WriteLine("\n********* " + outputTitle + " *********\n");
+        }
+        public static void TerminateApplication()
+        {
+            DisplayDivider("Program Termination");
+            Console.Write("Thank you.  Press any key to terminate the program...");
+            Console.ReadLine();
+        }
+        public static void PauseExecution()
+        {
+            Console.Write("\nProgram paused, press any key to continue...");
+            Console.ReadLine();
+            Console.WriteLine();
+        }
+    }
+}
