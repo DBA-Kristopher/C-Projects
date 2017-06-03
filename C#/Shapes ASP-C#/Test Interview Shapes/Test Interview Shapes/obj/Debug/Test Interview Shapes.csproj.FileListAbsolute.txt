@@ -1,0 +1,6 @@
+C:\Users\Kristopher\Documents\Career\Test Interview Shapes\Test Interview Shapes\bin\Test Interview Shapes.dll.config
+C:\Users\Kristopher\Documents\Career\Test Interview Shapes\Test Interview Shapes\bin\Test Interview Shapes.dll
+C:\Users\Kristopher\Documents\Career\Test Interview Shapes\Test Interview Shapes\bin\Test Interview Shapes.pdb
+C:\Users\Kristopher\Documents\Career\Test Interview Shapes\Test Interview Shapes\obj\Debug\Test Interview Shapes.csprojResolveAssemblyReference.cache
+C:\Users\Kristopher\Documents\Career\Test Interview Shapes\Test Interview Shapes\obj\Debug\Test Interview Shapes.dll
+C:\Users\Kristopher\Documents\Career\Test Interview Shapes\Test Interview Shapes\obj\Debug\Test Interview Shapes.pdb
