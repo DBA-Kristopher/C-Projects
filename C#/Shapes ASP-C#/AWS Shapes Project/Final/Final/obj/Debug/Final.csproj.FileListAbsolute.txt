@@ -1,0 +1,5 @@
+C:\Users\Kristopher\Documents\Scripts\Final\Final\bin\Final.dll.config
+C:\Users\Kristopher\Documents\Scripts\Final\Final\bin\Final.dll
+C:\Users\Kristopher\Documents\Scripts\Final\Final\bin\Final.pdb
+C:\Users\Kristopher\Documents\Scripts\Final\Final\obj\Debug\Final.dll
+C:\Users\Kristopher\Documents\Scripts\Final\Final\obj\Debug\Final.pdb
